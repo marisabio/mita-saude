@@ -19,12 +19,13 @@ Após clonar o reposítório, rodar a classe _Main_ do projeto em sua IDE de pre
 ## Pitch
 
 Link:
-https://drive.google.com/file/d/1kbBihsN52_CZ4tzKZcw3UpKHhrDQEIYA/view
+[https://drive.google.com/file/d/1kbBihsN52_CZ4tzKZcw3UpKHhrDQEIYA/view
+](https://drive.google.com/drive/folders/1xC_vln_XUN3LMwz_QTkErePZMhX0qjyh)
 
 ## Demonstração
 
 Link:
-https://drive.google.com/file/d/1TmMuoz7D8ehnsNgoadoacAM577K8-3-O/view?usp=sharing
+[https://drive.google.com/file/d/1TmMuoz7D8ehnsNgoadoacAM577K8-3-O/view?usp=sharing](https://drive.google.com/file/d/1TmMuoz7D8ehnsNgoadoacAM577K8-3-O/view?usp=sharing)
 
 ## Diagramas
 
